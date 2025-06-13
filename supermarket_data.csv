@@ -1,0 +1,11 @@
+Invoice ID,Branch,City,Customer type,Gender,Product line,Unit price,Quantity,Tax,Total,Date,Time,Payment,Rating
+750-67-8428,A,Yangon,Member,Female,Health and beauty,74.69,7,26.1415,548.9715,01/05/2019,13:08,Ewallet,9.1
+226-31-3081,C,Naypyitaw,Normal,Female,Electronic accessories,15.28,5,3.82,80.22,03/08/2019,10:29,Cash,9.6
+631-41-3108,A,Yangon,Normal,Male,Home and lifestyle,46.33,7,16.2155,340.5255,03/03/2019,13:23,Cash,7.4
+123-19-1176,A,Yangon,Member,Male,Health and beauty,58.22,8,23.288,489.048,01/27/2019,20:33,Ewallet,8.4
+373-73-7910,A,Yangon,Normal,Female,Sports and travel,86.31,7,30.2085,634.3785,02/08/2019,10:37,Credit card,5.3
+699-14-3026,C,Naypyitaw,Normal,Female,Electronic accessories,85.39,7,29.8865,627.6165,03/25/2019,18:30,Ewallet,4.1
+355-53-5943,A,Yangon,Member,Male,Home and lifestyle,68.84,6,20.652,433.692,02/25/2019,14:36,Cash,5.8
+315-22-5665,C,Naypyitaw,Normal,Male,Health and beauty,73.56,10,36.78,772.38,02/24/2019,11:38,Credit card,4.5
+665-32-9167,B,Mandalay,Member,Female,Electronic accessories,36.26,2,3.626,76.146,01/10/2019,17:16,Ewallet,6.8
+692-92-5582,B,Mandalay,Normal,Female,Electronic accessories,54.84,3,8.226,172.746,03/03/2019,13:27,Cash,7.2
